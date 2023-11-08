@@ -8,3 +8,4 @@
 
 * [ts函数重载参数类型需要能兼容](TypeScript/ts_method_overload_type_need_compatible.md)
 
+* [ts中声明的全局类型](TypeScript/ts_global_type.md)
