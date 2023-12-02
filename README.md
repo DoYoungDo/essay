@@ -10,6 +10,8 @@
 
 * [ts中声明的全局类型](TypeScript/ts_global_type.md)
 
+* [ts中的元组](TypeScript/ts_tuple.md)
+
 ## 其它
 
 ### 正则
