@@ -12,6 +12,10 @@
 
 * [ts中的元组](TypeScript/ts_tuple.md)
 
+### Rust
+
+* vscode安装rust环境
+
 ## 其它
 
 ### 正则
