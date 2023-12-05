@@ -23,3 +23,7 @@
 * [正则匹配的修饰符](RegExpression/match_modifier.md)
 
 * [js/ts中的正则断言](RegExpression/assertions_in_js-ts.md)
+
+### Qt
+
+* [Qt国际化](Qt/qt_localized.md)
