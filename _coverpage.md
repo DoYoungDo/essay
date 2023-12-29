@@ -8,4 +8,4 @@
 [Gitee](https://gitee.com/DoyoungDo)
 [Get Started](/README)
 
-![](static/bg.jpg)
+![](static/bg.webp)
