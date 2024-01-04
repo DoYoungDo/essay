@@ -36,6 +36,3 @@
 
 * [Qt国际化](Qt/qt_localized.md)
 
-### 业务分享
-
-* [Hover实现](./internal/hover_flow.md)
