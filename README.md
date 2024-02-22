@@ -36,6 +36,12 @@
 
 * [Qt国际化](Qt/qt_localized.md)
 
-### 教程(转载)
+## 转载
+
+### 书籍
 
 * [pdf解析](Guides/PDF-Explained-master/README.md)
+
+### 指南
+
+* [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)
