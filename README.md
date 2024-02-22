@@ -36,3 +36,6 @@
 
 * [Qt国际化](Qt/qt_localized.md)
 
+### 教程(转载)
+
+* [pdf解析](Guides/PDF-Explained-master/README.md)
