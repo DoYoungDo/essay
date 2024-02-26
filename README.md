@@ -1,8 +1,6 @@
 # 随笔
 
-## 按语言分类
-
-### TypeScript
+## TypeScript
 
 * [ts异常结果不能指定具体类型](TypeScript/ts_exception_result_type.md)
 
@@ -12,11 +10,11 @@
 
 * [ts中的元组](TypeScript/ts_tuple.md)
 
-### Rust
+## Rust
 
 * vscode安装rust环境 TODO
 
-### CMake
+## CMake
 
 * [CMake查看帮助](CMake/cmake_help.md)
 
@@ -24,17 +22,21 @@
 
 * [CMake常用内置变量](CMake/cmake_variables.md) TODO
 
-## 其它
-
-### 正则
+## 正则
 
 * [正则匹配的修饰符](RegExpression/match_modifier.md)
 
 * [js/ts中的正则断言](RegExpression/assertions_in_js-ts.md)
 
-### Qt
+## Qt
 
 * [Qt国际化](Qt/qt_localized.md)
+
+## English
+
+* [音标](English/phonetic.md)
+
+* [语法体系](English/program.md)
 
 ## 转载
 
