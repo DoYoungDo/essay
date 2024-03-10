@@ -1,5 +1,9 @@
 # 3000高考词汇
 
-[单词表](./static/单词表v7.pdf)
+- 单词表
 
-[短文](./static/课文v3.pdf)
+    [https://gitee.com/DoyoungDo/essay/blob/main/English/static/%E5%8D%95%E8%AF%8D%E8%A1%A8v7.pdf](https://gitee.com/DoyoungDo/essay/blob/main/English/static/%E5%8D%95%E8%AF%8D%E8%A1%A8v7.pdf)
+
+- 短文
+
+    [https://gitee.com/DoyoungDo/essay/blob/main/English/static/%E8%AF%BE%E6%96%87v3.pdf](https://gitee.com/DoyoungDo/essay/blob/main/English/static/%E8%AF%BE%E6%96%87v3.pdf)
