@@ -42,7 +42,7 @@
 
 * [语法体系](English/program.md)
 
-* [3000高考词汇](English/words.md)
+* [3500高考词汇](English/words.md)
 
 ## 转载
 
