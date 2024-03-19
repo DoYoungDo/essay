@@ -32,6 +32,10 @@
 
 * [Git常用操作命令](Git/Command.md)
 
+## node.js
+
+* [node js的标准输出](Node/stdout.md)
+
 ## Qt
 
 * [Qt国际化](Qt/qt_localized.md)
