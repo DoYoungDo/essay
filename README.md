@@ -1,4 +1,7 @@
 # 随笔
+## 2024-05-27
+
+* [npm安装本地项目到全局](Npm/npm_install_local_project.md)
 
 ## 2024-05-23
 

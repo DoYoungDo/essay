@@ -12,9 +12,11 @@
 
 * [node.js](Node/README.md)
 
+* [Npm](Npm/README.md)
+
 * [Qt](Qt/README.md)
 
-* [English](English/README.md)
+* [英语](English/README.md)
 
 #### 转载
 
