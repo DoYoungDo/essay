@@ -1,4 +1,9 @@
 # 随笔
+
+## 2024-06-05
+
+* [node js在大小写不敏感的系统上获取本地真实文件路径](Node/get_local_real_path.md)
+
 ## 2024-05-27
 
 * [npm安装本地项目到全局](Npm/npm_install_local_project.md)
