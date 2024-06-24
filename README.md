@@ -2,7 +2,7 @@
 
 ## 2024-06-24
 
-* [标准C++ 定义一个函数类型](Cpp/define_function_type.md)
+* [标准C++定义一个函数类型](Cpp/define_function_type.md)
 
 * [CMake设置编译架构](CMake/cmake_set_arch.md)
 
