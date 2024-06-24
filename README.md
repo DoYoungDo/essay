@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-06-24
+
+* [标准C++ 定义一个函数类型](Cpp/define_function_type.md)
+
 ## 2024-06-05
 
 * [node js在大小写不敏感的系统上获取本地真实文件路径](Node/get_local_real_path.md)
@@ -8,7 +12,7 @@
 
 * [npm安装本地项目到全局](Npm/npm_install_local_project.md)
 
-## 2024-05-23
+## 2024-05-23 before
 
 * [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)
 

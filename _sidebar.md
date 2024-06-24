@@ -1,5 +1,7 @@
 #### 分类
 
+* [C++](Cpp/README.md)
+
 * [TypeScript](TypeScript/README.md)
 
 * [Rust](Rust/README.md)
