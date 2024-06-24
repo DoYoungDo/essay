@@ -4,6 +4,8 @@
 
 * [标准C++ 定义一个函数类型](Cpp/define_function_type.md)
 
+* [CMake设置编译架构](CMake/cmake_set_arch.md)
+
 ## 2024-06-05
 
 * [node js在大小写不敏感的系统上获取本地真实文件路径](Node/get_local_real_path.md)
