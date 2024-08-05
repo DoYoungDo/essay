@@ -2,7 +2,7 @@
 
 ## 2024-08-05
 
-* [英文时态](English/Tense.md)
+* [英语中的时态](English/Tense.md)
 
 ## 2024-06-24
 
