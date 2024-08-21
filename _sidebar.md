@@ -20,6 +20,8 @@
 
 * [英语](English/README.md)
 
+* [其它](Other/README.md)
+
 #### 转载
 
 * [书籍](Guides/README.md)

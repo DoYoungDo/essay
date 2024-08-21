@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-08-20
+
+* [lldb调试常用命令](Other/lldb_command.md)
+
 ## 2024-08-05
 
 * [英语中的时态](English/Tense.md)
