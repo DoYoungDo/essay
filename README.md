@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-09-14
+
+* [node设置最大使用内存](Node/set_max_memery_size.md)
+
 ## 2024-09-10
 
 * [QHash/QMap索引访问有坑](Qt/qhash_or_qmap_visit_error.md)

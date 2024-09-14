@@ -5,3 +5,5 @@
 * [node js的标准输出](Node/stdout.md)
 
 * [node js设置控制台输出编码](Node/stdout_console_encode.md)
+
+* [node设置最大使用内存](Node/set_max_memery_size.md)
