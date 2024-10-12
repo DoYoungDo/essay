@@ -18,6 +18,8 @@
 
 * [Qt](Qt/README.md)
 
+* [OSAScript](OSAScript/README.md)
+
 * [英语](English/README.md)
 
 * [其它](Other/README.md)

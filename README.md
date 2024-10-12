@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-10-11
+
+* [applescript简介及osascript执行applescript示例](OSAScript/AppleScript/README.md)
+
 ## 2024-09-14
 
 * [node设置最大使用内存](Node/set_max_memery_size.md)
