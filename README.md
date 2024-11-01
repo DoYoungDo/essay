@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-11-01
+
+* [node小技巧](Node/Tips.md)
+
 ## 2024-10-11
 
 * [applescript简介及osascript执行applescript示例](OSAScript/AppleScript/README.md)
