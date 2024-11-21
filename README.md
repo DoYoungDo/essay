@@ -1,5 +1,9 @@
 # 随笔
 
+## 2024-11-21
+
+* [js模板字符串会隐形调用对象的toString方法](JavaScript/template_string.md)
+
 ## 2024-11-18
 
 * [枚举值的位运算应用和原理](Other/EnumBit.md)
