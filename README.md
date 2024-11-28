@@ -1,8 +1,14 @@
 # 随笔
 
+##### [开始页]()
+
+## 2024-11-28
+
+* [sourceMap通用规范](JavaScript、TypeScript/source_map_general_rule.md)
+
 ## 2024-11-21
 
-* [js模板字符串会隐形调用对象的toString方法](JavaScript/template_string.md)
+* [js模板字符串会隐形调用对象的toString方法](JavaScript、TypeScript/template_string.md)
 
 ## 2024-11-18
 
@@ -54,13 +60,13 @@
 
 * [pdf解析](Guides/PDF-Explained-master/README.md)
 
-* [ts异常结果不能指定具体类型](TypeScript/ts_exception_result_type.md)
+* [ts异常结果不能指定具体类型](JavaScript、TypeScript/ts_exception_result_type.md)
 
-* [ts函数重载参数类型需要能兼容](TypeScript/ts_method_overload_type_need_compatible.md)
+* [ts函数重载参数类型需要能兼容](JavaScript、TypeScript/ts_method_overload_type_need_compatible.md)
 
-* [ts中声明的全局类型](TypeScript/ts_global_type.md)
+* [ts中声明的全局类型](JavaScript、TypeScript/ts_global_type.md)
 
-* [ts中的元组](TypeScript/ts_tuple.md)
+* [ts中的元组](JavaScript、TypeScript/ts_tuple.md)
 
 <!-- * vscode安装rust环境 TODO -->
 

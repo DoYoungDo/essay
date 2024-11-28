@@ -2,7 +2,7 @@
 
 * [C++](Cpp/README.md)
 
-* [TypeScript](TypeScript/README.md)
+* [JavaScript、TypeScript](JavaScript、TypeScript/README.md)
 
 * [Rust](Rust/README.md)
 
@@ -20,7 +20,7 @@
 
 * [OSAScript](OSAScript/README.md)
 
-* [英语](English/README.md)
+<!-- * [英语](English/README.md) -->
 
 * [其它](Other/README.md)
 
