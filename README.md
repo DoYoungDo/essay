@@ -2,6 +2,10 @@
 
 ##### [欢迎页]()
 
+## 2024-12-17
+
+* [vscode搭建Qt6 + cmake开发环境](Qt/vscode_cmake_qt_6_dev_env_build.md)
+
 ## 2024-11-28
 
 * [sourceMap通用规范](JavaScript、TypeScript/source_map_general_rule.md)
