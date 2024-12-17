@@ -4,6 +4,8 @@
 
 ## 2024-12-17
 
+* [node fork子进程不执行的问题](Node/Tips.md#node-fork子进程不执行)
+
 * [vscode搭建Qt6 + cmake开发环境](Qt/vscode_cmake_qt_6_dev_env_build.md)
 
 ## 2024-11-28
