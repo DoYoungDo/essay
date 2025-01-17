@@ -2,6 +2,10 @@
 
 ##### [欢迎页]()
 
+## 2025-01-16
+
+* [mac上替换应用程序图标](Other/mac_replace_app_icons.md)
+
 ## 2024-12-17
 
 * [node fork子进程不执行的问题](Node/Tips.md#node-fork子进程不执行)
