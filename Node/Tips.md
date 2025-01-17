@@ -4,9 +4,27 @@
 
 ```shell
 $ node index.js
-    ↓
+    ⬇⬇⬇
 $ node index
 ```
+
+## node在执行js文件时，可以可以直接执行一个目录,如果这个目录中有index.js文件
+
+目录结构如下
+
+```
+└─dist/
+  └─index.js
+```
+
+<span style="color:lightgreen">⬇⬇︎⬇︎︎︎︎︎︎︎</span>
+
+可以直接如下执行
+
+```shell
+$ node dist 
+```
+
 
 ## 不可以对一个右值进行++或--
 
