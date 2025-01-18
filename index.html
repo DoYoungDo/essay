@@ -23,6 +23,11 @@
       nameLink: '#/README',
       coverpage: true,
       loadSidebar: true,
+      multPage:{
+        prevBottonText: "上一页",
+        nextBottonText: "下一页",
+        pageTipText: "第 ${page} / ${pages} 页"
+      },
       plugins:[
         function (hook,vm) {
           hook.afterEach(function(html, next) {
@@ -35,7 +40,7 @@
               window.currentPage = 1;
               window.updateVisible = () => {
 
-                document.getElementById("currentPageLabel").innerText = `第 ${window.currentPage} / ${window.pageCount} 页`;
+                document.getElementById("currentPageLabel").innerText = window.$docsify.multPage.pageTipText.replace("${page}", window.currentPage).replace("${pages}", pages.length);
 
                 let i = 1;
                 for (let ele of document.getElementsByClassName("page-container")) {
@@ -97,9 +102,9 @@
 ${pages.map((page, index) => `<div class="page-container ${index == 0 ? "page-current" : "page-none-current"}">${page}</div>`).join("")}
 <div id="page-navigation">
   <div class="page-navigation-content">
-    <div class="pageButton" id="prev-page" onclick="window.onPrevClicked()"><<<上一页</div>
-    <div id="currentPageLabel">第 1 / ${pages.length} 页</div>
-    <div class="pageButton" id="next-page" onclick="window.onNextClicked()" >下一页>>></div>
+    <div class="pageButton" id="prev-page" onclick="window.onPrevClicked()">${window.$docsify.multPage.prevBottonText || "上一页"}</div>
+    <div id="currentPageLabel">${window.$docsify.multPage.pageTipText.replace("${page}", "1").replace("${pages}", pages.length)}</div>
+    <div class="pageButton" id="next-page" onclick="window.onNextClicked()" >${window.$docsify.multPage.nextBottonText || "下一页"}</div>
   </div>
 </div>
 `
