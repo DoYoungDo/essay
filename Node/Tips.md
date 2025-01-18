@@ -25,6 +25,9 @@ $ node index
 $ node dist 
 ```
 
+---
+
+# node小技巧
 
 ## 不可以对一个右值进行++或--
 
@@ -54,6 +57,10 @@ _map.set("tow",v++) // 正确
 
 
 ```
+
+---
+
+# node小技巧
 
 ## node fork子进程不执行
 
