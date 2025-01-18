@@ -22,7 +22,91 @@
       name: '主页',
       nameLink: '#/README',
       coverpage: true,
-      loadSidebar: true
+      loadSidebar: true,
+      plugins:[
+        function (hook,vm) {
+          hook.afterEach(function(html, next) {
+            console.log("html",html)
+
+            if (/<hr>/g.test(html)){
+              let pages = html.split("<hr>");
+
+              window.pageCount = pages.length;
+              window.currentPage = 1;
+              window.updateVisible = () => {
+
+                document.getElementById("currentPageLabel").innerText = `第 ${window.currentPage} / ${window.pageCount} 页`;
+
+                let i = 1;
+                for (let ele of document.getElementsByClassName("page-container")) {
+                  if (window.currentPage === i++) {
+                    ele.classList.remove("page-none-current");
+                    ele.classList.add("page-current");
+                  }
+                  else {
+                    ele.classList.remove("page-current");
+                    ele.classList.add("page-none-current");
+                  }
+                }
+            }
+
+            window.onPrevClicked = ()=>{
+              console.log(window.currentPage === 1 ? window.currentPage : --window.currentPage);
+              updateVisible()
+            }
+            window.onNextClicked = () => {
+              console.log(window.currentPage === window.pageCount ? window.currentPage : ++window.currentPage);
+              updateVisible()
+            }
+              
+              let page1 = `
+<style>
+  .page-none-current{
+    display: none;
+  }
+  #page-navigation {
+      position: fixed;
+      left:0px;
+      bottom:0px;
+      background-color: #00000018;
+      height:50px;
+      width:100%;
+  }
+  .page-navigation-content{
+      height:50px;
+      width:76%;
+      margin:0 auto;
+      display: flex;
+      justify-content: space-between; 
+      align-items: center; /* 垂直居中 */
+  }
+  #currentPageLabel{
+      width:200px;
+      color: #00000079;
+  }
+  .pageButton{
+      color: #000000bf;
+  }
+  .pageButton:hover{
+      color: #70cc63;
+  }
+
+</style>
+${pages.map((page, index) => `<div class="page-container ${index == 0 ? "page-current" : "page-none-current"}">${page}</div>`).join("")}
+<div id="page-navigation">
+  <div class="page-navigation-content">
+    <div class="pageButton" id="prev-page" onclick="window.onPrevClicked()"><<<上一页</div>
+    <div id="currentPageLabel">第 1 / ${pages.length} 页</div>
+    <div class="pageButton" id="next-page" onclick="window.onNextClicked()" >下一页>>></div>
+  </div>
+</div>
+`
+              return next(page1);
+            }
+            next(html);
+          });
+        }
+      ]
     }
   </script>
   <!-- Docsify v4 -->
