@@ -2,6 +2,10 @@
 
 ##### [欢迎页]()
 
+## 2025-01-22
+
+* [xcode操作指南](Other/xcode_operate_guide.md)
+
 ## 2025-01-16
 
 * [mac上替换应用程序图标](Other/mac_replace_app_icons.md)

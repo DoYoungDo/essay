@@ -1,5 +1,7 @@
 # 其它
 
+* [xcode操作指南](Other/xcode_operate_guide.md)
+
 * [mac上替换应用程序图标](Other/mac_replace_app_icons.md)
 
 * [枚举值的位运算应用和原理](Other/EnumBit.md)
