@@ -6,6 +6,8 @@
 
 * [Rust](Rust/README.md)
 
+* [Swift](Swift/README.md)
+
 * [CMake](CMake/README.md)
 
 * [正则](RegExpression/README.md)
