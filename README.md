@@ -1,10 +1,10 @@
-# 随笔
+# 随笔 <img src="static/avat.png" height="30px" width="30px">
 
 ##### [欢迎页]()
 
 ## 2025
 
-* [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook)
+* [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook) 【[指南](Guides/README.md)】
 
 * [Swift编码指北](Swift/README.md)
 
@@ -42,11 +42,11 @@
 
 * [npm安装本地项目到全局](Npm/npm_install_local_project.md)
 
-* [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)
+* [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)【[指南](Guides/README.md)】
 
-* [cs自学指南](https://csdiy.wiki/)
+* [cs自学指南](https://csdiy.wiki/)【[指南](Guides/README.md)】
 
-* [pdf解析](Guides/PDF-Explained-master/README.md)
+* [pdf解析](Guides/PDF-Explained-master/README.md)【[书籍](Guides/README.md)】
 
 * [ts异常结果不能指定具体类型](JavaScript、TypeScript/ts_exception_result_type.md)
 
