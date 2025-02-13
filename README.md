@@ -2,6 +2,10 @@
 
 ##### [欢迎页]()
 
+## 2025-02-13
+
+* [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook)
+
 ## 2025-01-22
 
 * [Swift编码指北](Swift/README.md)
