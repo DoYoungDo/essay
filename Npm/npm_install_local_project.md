@@ -1,5 +1,7 @@
 # npm安装本地项目到全局
 
+> 2024-05-27
+
 `package.json`配置bin
 
 ```json

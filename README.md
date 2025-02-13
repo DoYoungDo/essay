@@ -2,85 +2,45 @@
 
 ##### [欢迎页]()
 
-## 2025-02-13
+## 2025
 
 * [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook)
-
-## 2025-01-22
 
 * [Swift编码指北](Swift/README.md)
 
 * [xcode操作指南](Other/xcode_operate_guide.md)
 
-## 2025-01-16
-
 * [mac上替换应用程序图标](Other/mac_replace_app_icons.md)
 
----
-
-# 随笔
-
-##### [欢迎页]()
-
-## 2024-12-17
+## 2024
 
 * [node fork子进程不执行的问题](Node/Tips.md#node-fork子进程不执行)
 
 * [vscode搭建Qt6 + cmake开发环境](Qt/vscode_cmake_qt_6_dev_env_build.md)
 
-## 2024-11-28
-
 * [sourceMap通用规范](JavaScript、TypeScript/source_map_general_rule.md)
-
-## 2024-11-21
 
 * [js模板字符串会隐形调用对象的toString方法](JavaScript、TypeScript/template_string.md)
 
-## 2024-11-18
-
 * [枚举值的位运算应用和原理](Other/EnumBit.md)
-
-## 2024-11-01
 
 * [node小技巧](Node/Tips.md)
 
-## 2024-10-11
-
 * [applescript简介及osascript执行applescript示例](OSAScript/AppleScript/README.md)
-
-## 2024-09-14
 
 * [node设置最大使用内存](Node/set_max_memery_size.md)
 
-## 2024-09-10
-
 * [QHash/QMap索引访问有坑](Qt/qhash_or_qmap_visit_error.md)
 
-## 2024-08-20
-
 * [lldb调试常用命令](Other/lldb_command.md)
-
-## 2024-08-05
-
-* [英语中的时态](English/Tense.md)
-
-## 2024-06-24
 
 * [标准C++定义一个函数类型](Cpp/define_function_type.md)
 
 * [CMake设置编译架构](CMake/cmake_set_arch.md)
 
-## 2024-06-05
-
 * [node js在大小写不敏感的系统上获取本地真实文件路径](Node/get_local_real_path.md)
 
-## 2024-05-27
-
 * [npm安装本地项目到全局](Npm/npm_install_local_project.md)
-
----
-
-## 2024-05-23 before
 
 * [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)
 
@@ -116,8 +76,8 @@
 
 * [Qt国际化](Qt/qt_localized.md)
 
-* [音标](English/phonetic.md)
+<!-- * [音标](English/phonetic.md) -->
 
-* [语法体系](English/program.md)
+<!-- * [语法体系](English/program.md) -->
 
-* [3500高考词汇](English/words.md)
+<!-- * [3500高考词汇](English/words.md) -->

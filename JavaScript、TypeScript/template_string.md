@@ -1,5 +1,7 @@
 # js模板字符串会隐形调用对象的toString方法
 
+> 2024-11-21
+
 遇到一个问题，在查看堆栈日志时发现这样一个代码
 ```ts
 function assertEqual(a, b, msg, msg2, stackCrawlMark) {

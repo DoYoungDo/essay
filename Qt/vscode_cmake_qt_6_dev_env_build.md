@@ -1,5 +1,7 @@
 # vscode搭建Qt6 + cmake开发环境
 
+> 2024-12-17
+
 ## 依赖
 
 - Qt6 在线安装器 [清华镜像下载](https://mirrors.tuna.tsinghua.edu.cn/qt/archive/online_installers/)
