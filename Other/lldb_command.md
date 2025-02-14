@@ -8,6 +8,12 @@
 lldb
 ```
 
+*查看帮助*
+
+```shell
+help
+```
+
 *挂载进程*
 
 ```shell
@@ -26,6 +32,13 @@ lldb
 l main.cpp
 ```
 
+*查看所有断点*
+
+```shell
+lldb
+b 
+```
+
 *添加断点*
 
 ```shell
@@ -40,4 +53,28 @@ b 行号
 lldb
 
 p
+```
+
+*继续执行*
+```shell
+lldb
+c
+```
+
+*单步执行*
+```shell
+lldb
+n
+```
+
+*单步进入*
+```shell
+lldb
+s
+```
+
+*单步跳出*
+```shell
+lldb
+finish
 ```
