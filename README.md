@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [C++ 在指定内容地址创建对象](Cpp/Tips.md#C-在指定内容地址创建对象)
+
 * [开发 工具、技术 汇总](Other/tool_tech_summary.md)
 
 * [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook) 【[指南](Guides/README.md)】
