@@ -7,4 +7,3 @@
 | **MDN** | CSS, HTML, and JavaScript,前端文档                           | https://developer.mozilla.org/zh-CN/                         |
 | **Qt** | Qt 是一个跨平台的C++应用程序开发框架                         | https://www.qt.io/                                           |
 | **Node** | 一个跨平台的javascript的运行时环境                           | https://nodejs.org                                           |
-| **
