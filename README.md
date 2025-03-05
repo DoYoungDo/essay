@@ -6,7 +6,7 @@
 
 * [Qt避坑-QTableWidget接收不到鼠标移动事件](Qt/qtablewidget_no_mouse_move_event.md)
 
-* [C++ 在指定内容地址创建对象](Cpp/Tips.md#C-在指定内容地址创建对象) 【[C++](Cpp/README.md)】
+* [C++ 在指定内容地址创建对象](Cpp/Tips.md#C-在指定内容地址创建对象)
 
 * [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook) 【[指南](Guides/README.md)】
 
