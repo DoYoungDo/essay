@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [C++ lambda表达式的骚操作](Cpp/lambda_666.md)
+
 * [Qt避坑-QTableWidget接收不到鼠标移动事件](Qt/qtablewidget_no_mouse_move_event.md)
 
 * [C++ 在指定内容地址创建对象](Cpp/Tips.md#C-在指定内容地址创建对象)
