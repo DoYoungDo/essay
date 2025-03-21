@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [C++ 删除一个类或者结构体的属性时，千万不要相信对这个属性的查找引用](Cpp/delete_class_attr.md)
+
 * [C++ lambda表达式的骚操作](Cpp/lambda_666.md)
 
 * [Qt避坑-QTableWidget接收不到鼠标移动事件](Qt/qtablewidget_no_mouse_move_event.md)
