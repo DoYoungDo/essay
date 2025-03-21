@@ -4,11 +4,11 @@
 
 ### C++ 在指定内容地址创建对象
 
-**语法**
+#### 语法
 ```cpp
 new (address) type(arguments);
 ```
-**示例**
+#### 示例
 ```cpp
 #include <iostream>
 
