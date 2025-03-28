@@ -1,5 +1,7 @@
 # 其它
 
+* [新建一个vscode插件](Other/vscode_plugin.md)
+
 * [开发 工具、技术 汇总](Other/tool_tech_summary.md)
 
 * [xcode操作指南](Other/xcode_operate_guide.md)
