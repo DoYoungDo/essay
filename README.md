@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [Qt避坑-QStandardItemModel的appendRow无法添加多行](Qt/qstandarditemmodel_appendrow.md)
+
 * [新建一个vscode插件](Other/vscode_plugin.md)【[其它](Other/README.md)】
 
 * [Git常用操作命令](Git/Command.md)
