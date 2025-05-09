@@ -14,4 +14,4 @@
 
 * [lldb调试常用命令](Other/lldb_command.md)
 
-* [英语](English/README.md)
+<!-- * [英语](English/README.md) -->
