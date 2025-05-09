@@ -1,5 +1,7 @@
 # 其它
 
+* [mac安装未知应用常见问题](Other/mac_install_unknown_app.md)
+
 * [新建一个vscode插件](Other/vscode_plugin.md)
 
 * [开发 工具、技术 汇总](Other/tool_tech_summary.md)

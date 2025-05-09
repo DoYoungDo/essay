@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [mac安装未知应用常见问题](Other/mac_install_unknown_app.md)【[其它](Other/README.md)】
+
 * [Qt避坑-QStandardItemModel的appendRow无法添加多行](Qt/qstandarditemmodel_appendrow.md)
 
 * [新建一个vscode插件](Other/vscode_plugin.md)【[其它](Other/README.md)】
