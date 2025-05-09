@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [Qt避坑-Qt设置非透明窗口鼠标穿透效果](Qt/set_window_mouse_transparent.md)
+
 * [mac安装未知应用常见问题](Other/mac_install_unknown_app.md)【[其它](Other/README.md)】
 
 * [Qt避坑-QStandardItemModel的appendRow无法添加多行](Qt/qstandarditemmodel_appendrow.md)

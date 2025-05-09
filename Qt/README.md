@@ -1,5 +1,7 @@
 # Qt
 
+* [Qt避坑-Qt设置非透明窗口鼠标穿透效果](Qt/set_window_mouse_transparent.md)
+
 * [Qt避坑-QStandardItemModel的appendRow无法添加多行](Qt/qstandarditemmodel_appendrow.md)
 
 * [Qt避坑-QTableWidget接收不到鼠标移动事件](Qt/qtablewidget_no_mouse_move_event.md)
