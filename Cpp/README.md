@@ -1,5 +1,7 @@
 # C++
 
+* [【BUG】底层停止了因为它触发了一个异常](Cpp/bug_exception.md)
+
 * [C++ 删除一个类或者结构体的属性时，千万不要相信对这个属性的查找引用](Cpp/delete_class_attr.md)
 
 * [C++ lambda表达式的骚操作](Cpp/lambda_666.md)
