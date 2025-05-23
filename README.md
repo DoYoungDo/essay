@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [C++ 一个通过局部变量生命周期控制代码执行的小技巧](Cpp/control_code_execution_by_local_var_life_cycle.md)
+
 * [【BUG】底层停止了因为它触发了一个异常](Cpp/bug_exception.md)【[C++](Cpp/README.md)】
 
 * [Qt避坑-Qt设置非透明窗口鼠标穿透效果](Qt/set_window_mouse_transparent.md)
