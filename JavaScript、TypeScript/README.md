@@ -1,5 +1,7 @@
 # JavaScript、TypeScript
 
+* [js/ts中标签的使用](JavaScript、TypeScript/label.md)
+
 * [sourceMap通用规范](JavaScript、TypeScript/source_map_general_rule.md)
 
 * [js模板字符串会隐形调用对象的toString方法](JavaScript、TypeScript/template_string.md)
