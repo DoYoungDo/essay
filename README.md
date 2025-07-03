@@ -4,7 +4,7 @@
 
 ## 2025
 
-* [解决每次执行 git pull 时都需要输入账号和密码的问题](https://blog.csdn.net/dnpao/article/details/144204751)
+* [解决每次执行 git pull 时都需要输入账号和密码的问题](Git/solve_git_pull_need_input_account_password.md)
 
 * [c++ 模板函数注意事项](Cpp/template.md)
 
