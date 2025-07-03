@@ -4,6 +4,10 @@
 
 ## 2025
 
+* [解决每次执行 git pull 时都需要输入账号和密码的问题](https://blog.csdn.net/dnpao/article/details/144204751)
+
+* [c++ 模板函数注意事项](Cpp/template.md)
+
 * [js/ts中标签的使用](JavaScript、TypeScript/label.md)
 
 * [C++ 一个通过局部变量生命周期控制代码执行的小技巧](Cpp/control_code_execution_by_local_var_life_cycle.md)
