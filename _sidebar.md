@@ -4,6 +4,8 @@
 
 * [JavaScript、TypeScript](JavaScript、TypeScript/README.md)
 
+* [Python](Python/README.md)
+
 * [Rust](Rust/README.md)
 
 * [Swift](Swift/README.md)

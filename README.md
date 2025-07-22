@@ -4,6 +4,8 @@
 
 ## 2025
 
+* [Python代码中到处可见的`if __name__ == '__main__':`的含义](Python/if_name_equal_main.md)
+
 * [解决每次执行 git pull 时都需要输入账号和密码的问题](Git/solve_git_pull_need_input_account_password.md)【[Git](Git/README.md)】【[指南](Guides/README.md)】
 
 * [c++ 模板函数注意事项](Cpp/template.md)
