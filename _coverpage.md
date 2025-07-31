@@ -13,7 +13,7 @@
 
 # <span><span style="font-family: Apple Chancery; color: #fbf4ed">Doyoung</span><span style="font-family: HuaGuangYingBiJianShouJinTi; font-size:20px; color: #fbf4ed">的随笔小记</span></span>
 
-## <span style="font-family: Apple Chancery; color: #fbf4ed">Do, Young !</span>
+<img src="static/doyoung.svg" width="100%" height="50">
 
 [GitHub](https://github.com/DoYoungDo)
 [Gitee](https://gitee.com/DoyoungDo)
