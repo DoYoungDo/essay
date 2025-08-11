@@ -1,5 +1,7 @@
 # JavaScript、TypeScript
 
+* [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)
+
 * [js/ts中标签的使用](JavaScript、TypeScript/label.md)
 
 * [sourceMap通用规范](JavaScript、TypeScript/source_map_general_rule.md)
