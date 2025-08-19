@@ -28,8 +28,10 @@
 
 * [其它](Other/README.md)
 
+* [指南](Guides/README.md)
+
 #### 转载
 
-* [书籍](Guides/README.md)
+* [书籍](Third/Guides/README.md#Books)
 
-* [指南](Guides/README.md)
+* [指南](Third/Guides/README.md#Guides)

@@ -4,11 +4,13 @@
 
 ## 2025
 
+* [有手就行！白嫖Github Pages搭建个人博客网站](Guides/github_pages_build_personal_blog.md)
+
 * [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)
 
 * [Python代码中到处可见的`if __name__ == '__main__':`的含义](Python/if_name_equal_main.md)
 
-* [解决每次执行 git pull 时都需要输入账号和密码的问题](Git/solve_git_pull_need_input_account_password.md)【[Git](Git/README.md)】【[指南](Guides/README.md)】
+* [解决每次执行 git pull 时都需要输入账号和密码的问题](Git/solve_git_pull_need_input_account_password.md)【[Git](Git/README.md)】【[指南](Third/Guides/README.md)】
 
 * [c++ 模板函数注意事项](Cpp/template.md)
 
@@ -36,7 +38,7 @@
 
 * [C++ 在指定内容地址创建对象](Cpp/Tips.md#C-在指定内容地址创建对象)
 
-* [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook) 【[指南](Guides/README.md)】
+* [面向开发者的大模型手册 - LLM Cookbook](https://datawhalechina.github.io/llm-cookbook) 【[指南](Third/Guides/README.md)】
 
 * [Swift编码指北](Swift/README.md)
 
@@ -74,11 +76,11 @@
 
 * [npm安装本地项目到全局](Npm/npm_install_local_project.md)
 
-* [代码整洁之道](Guides/Clean-Code-Notes-master/README.md)【[指南](Guides/README.md)】
+* [代码整洁之道](Third/Guides/Clean-Code-Notes-master/README.md)【[指南](Third/Guides/README.md)】
 
-* [cs自学指南](https://csdiy.wiki/)【[指南](Guides/README.md)】
+* [cs自学指南](https://csdiy.wiki/)【[指南](Third/Guides/README.md)】
 
-* [pdf解析](Guides/PDF-Explained-master/README.md)【[书籍](Guides/README.md)】
+* [pdf解析](Third/Guides/PDF-Explained-master/README.md)【[书籍](Third/Guides/README.md)】
 
 * [ts异常结果不能指定具体类型](JavaScript、TypeScript/ts_exception_result_type.md)
 
