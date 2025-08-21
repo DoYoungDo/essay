@@ -4,7 +4,8 @@
 
 ## 2025
 
-* [有手就行！白嫖Github Pages搭建个人博客网站](Guides/github_pages_build_personal_blog.md)
+* [Qt 编译arm注意事项](Qt/compile_arm.md)
+<!-- * [有手就行！白嫖Github Pages搭建个人博客网站](Guides/github_pages_build_personal_blog.md) -->
 
 * [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)
 
