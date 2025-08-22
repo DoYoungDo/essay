@@ -2,6 +2,10 @@
 
 ##### [欢迎页]()
 
+## [长期更新](LTUpdate/README.md)
+
+* [程序设计心得](LTUpdate/program_design.md)
+
 ## 2025
 
 * [Qt 编译arm注意事项](Qt/compile_arm.md)
