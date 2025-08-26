@@ -8,6 +8,8 @@
 
 ## 2025
 
+* [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
+
 * [Qt 编译arm注意事项](Qt/compile_arm.md)
 <!-- * [有手就行！白嫖Github Pages搭建个人博客网站](Guides/github_pages_build_personal_blog.md) -->
 

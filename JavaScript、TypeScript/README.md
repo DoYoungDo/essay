@@ -1,5 +1,7 @@
 # JavaScript、TypeScript
 
+* [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
+
 * [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)
 
 * [js/ts中标签的使用](JavaScript、TypeScript/label.md)
