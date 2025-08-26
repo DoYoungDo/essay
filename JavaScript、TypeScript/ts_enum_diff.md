@@ -84,5 +84,20 @@ enum MixEnum {
 
 ### 结论2
 
+```ts
+console.log(Object.values(StringEnum));
+console.log(Object.values(StringEnum2));
+console.log(Object.values(NumberEnum));
+console.log(Object.values(NumberEnum2));
+console.log(Object.values(MixEnum));
+```
+输出
+```shell
+[ 'a', 'b' ]
+[ 'a', 'b' ]
+[ 'A', 'B', 1, 2 ]
+[ 'A', 'B', 1, 2 ]
+[ 'B', 'a', 1 ]
+```
 - 枚举=对象，那么我们就可以对枚举类型进行for循环遍历
 - `但是!`由于枚举值为数字类型时的特殊情况，尽量不要遍历枚举值中带数字和枚举，否则容易出现问题
