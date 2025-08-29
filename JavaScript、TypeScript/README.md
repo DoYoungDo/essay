@@ -1,5 +1,7 @@
 # JavaScript、TypeScript
 
+* [js/ts的`Function.prototype.bind()`方法避坑](JavaScript、TypeScript/function_bind.md)
+
 * [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
 
 * [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)

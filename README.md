@@ -8,6 +8,8 @@
 
 ## 2025
 
+* [js/ts的`Function.prototype.bind()`方法避坑](JavaScript、TypeScript/function_bind.md)
+
 * [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
 
 * [Qt 编译arm注意事项](Qt/compile_arm.md)
