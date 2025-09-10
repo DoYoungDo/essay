@@ -1,5 +1,7 @@
 # 其它
 
+* [修改host并重启DNS](Other/modify_host_and_restart_cdn.md)
+
 * [mac安装未知应用常见问题](Other/mac_install_unknown_app.md)
 
 * [新建一个vscode插件](Other/vscode_plugin.md)

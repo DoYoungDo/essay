@@ -8,6 +8,8 @@
 
 ## 2025
 
+* [修改host并重启DNS](Other/modify_host_and_restart_cdn.md)【[其它](Other/README.md)】
+
 * [js/ts的`Function.prototype.bind()`方法避坑](JavaScript、TypeScript/function_bind.md)
 
 * [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
