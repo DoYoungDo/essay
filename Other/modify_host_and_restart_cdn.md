@@ -15,6 +15,6 @@
 
 ### 重启DNS
 
-> Windows：在 CMD 窗口输入：ipconfig /flushdns  
+> Windows 命令：ipconfig /flushdns  
 > Mac 命令：sudo killall -HUP mDNSResponder  
 > Linux 命令：sudo nscd restart  
