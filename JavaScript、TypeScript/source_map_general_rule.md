@@ -77,7 +77,7 @@ sourceMap是一个标准的json文件，其中包含以下属性
    `originalColumn（源代码中的列号）`  
    `nameIndex（名称在‘names’数组中的的索引，可选）`
    
-   上述数字都从0开始
+   *上述数字都从`0`开始*
    
    **示例**
    
