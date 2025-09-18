@@ -1,5 +1,7 @@
 # 其它
 
+* [Windows设置自动关机或自动重启等自定义任务](Other/windows_set_custome_task.md)
+
 * [修改host并重启DNS](Other/modify_host_and_restart_cdn.md)
 
 * [mac安装未知应用常见问题](Other/mac_install_unknown_app.md)

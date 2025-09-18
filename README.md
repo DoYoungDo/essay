@@ -8,6 +8,8 @@
 
 ## 2025
 
+* [Windows设置自动关机或自动重启等自定义任务](Other/windows_set_custome_task.md)【[其它](Other/README.md)】
+
 * [修改host并重启DNS](Other/modify_host_and_restart_cdn.md)【[其它](Other/README.md)】
 
 * [js/ts的`Function.prototype.bind()`方法避坑](JavaScript、TypeScript/function_bind.md)
