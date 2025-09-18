@@ -1,6 +1,8 @@
+*2024-11-28*
+
 # sourceMap通用规范
 
-> 2024-11-28
+>  [source map 可视化验证在线工具](https://evanw.github.io/source-map-visualization/)
 
 #### *示例*
 
