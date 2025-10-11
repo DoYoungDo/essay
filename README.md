@@ -27,7 +27,6 @@
 * [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)
 
 * [Qt 编译arm注意事项](Qt/compile_arm.md)
-<!-- * [有手就行！白嫖Github Pages搭建个人博客网站](Guides/github_pages_build_personal_blog.md) -->
 
 * [js/ts中的生成器函数、yiled的使用](JavaScript、TypeScript/generator_function.md)
 
@@ -113,13 +112,9 @@
 
 * [ts中的元组](JavaScript、TypeScript/ts_tuple.md)
 
-<!-- * vscode安装rust环境 TODO -->
-
 * [CMake查看帮助](CMake/cmake_help.md)
 
 * [CMake常用指令](CMake/cmake_commands.md)
-
-<!-- * [CMake常用内置变量](CMake/cmake_variables.md) TODO -->
 
 * [正则匹配的修饰符](RegExpression/match_modifier.md)
 
@@ -130,9 +125,3 @@
 * [node js设置控制台输出编码](Node/stdout_console_encode.md)
 
 * [Qt国际化](Qt/qt_localized.md)
-
-<!-- * [音标](English/phonetic.md) -->
-
-<!-- * [语法体系](English/program.md) -->
-
-<!-- * [3500高考词汇](English/words.md) -->
