@@ -8,6 +8,14 @@
 
 ## 2025
 
+* [AI专业词概念-agent](AI/about_agent.md)
+
+* [AI专业词概念-mcp](AI/about_mcp.md)
+
+* [AI专业词概念-prompt](AI/about_propmt.md)
+
+* [AI专业词概念-llm](AI/about_llm.md)
+
 * [python创建并激活虚拟环境](Python/create_and_active_virtual_env.md)
 
 * [Windows设置自动关机或自动重启等自定义任务](Other/windows_set_custome_task.md)【[其它](Other/README.md)】

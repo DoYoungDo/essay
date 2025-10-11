@@ -1,5 +1,7 @@
 #### 分类
 
+* [AI](AI/README.md)
+
 * [C++](Cpp/README.md)
 
 * [JavaScript、TypeScript](JavaScript、TypeScript/README.md)
