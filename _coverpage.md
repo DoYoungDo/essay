@@ -19,4 +19,4 @@
 [Gitee](https://gitee.com/DoyoungDo)
 [Get Started](/README)
 
-![](static/bg.webp)
+<!-- ![](static/bg.webp) -->
