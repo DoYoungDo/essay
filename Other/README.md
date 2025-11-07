@@ -1,5 +1,7 @@
 # 其它
 
+* [mac设置程序坞不显示图标](Other/mac_set_dock_not_show_icon.md)
+
 * [Windows设置自动关机或自动重启等自定义任务](Other/windows_set_custome_task.md)
 
 * [修改host并重启DNS](Other/modify_host_and_restart_cdn.md)
