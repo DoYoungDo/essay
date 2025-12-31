@@ -8,7 +8,7 @@
 
 * [Python](Python/README.md)
 
-* [Rust](Rust/README.md)
+<!-- * [Rust](Rust/README.md) -->
 
 * [Swift](Swift/README.md)
 
@@ -30,7 +30,9 @@
 
 * [其它](Other/README.md)
 
-* [指南](Guides/README.md)
+<!-- * [指南](Guides/README.md) -->
+
+### [<span style="color:#60af7a; font-size:16px;">开源项目</span>](OpenSource/README.md)
 
 #### 转载
 
