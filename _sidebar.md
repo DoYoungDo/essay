@@ -8,6 +8,8 @@
 
 * [Python](Python/README.md)
 
+* [Golang](Golang/README.md)
+
 <!-- * [Rust](Rust/README.md) -->
 
 * [Swift](Swift/README.md)
