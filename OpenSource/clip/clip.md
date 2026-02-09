@@ -23,6 +23,12 @@
 
 从 [GitHub Releases](https://github.com/DoYoungDo/clip/releases) 或 [Gitee Releases](https://gitee.com/DoyoungDo/clip/releases) 下载对应平台的版本。
 
+**支持平台**
+
+- macOS：直接下载运行
+- Windows：直接下载运行
+- Linux：需要自行编译
+
 本工具为免安装版本，下载解压后直接运行即可。
 
 ### 功能介绍
