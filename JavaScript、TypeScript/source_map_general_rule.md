@@ -62,7 +62,7 @@ sourceMap是一个标准的json文件，其中包含以下属性
 
    源文件的根路径
 
-* `sourcesContent？: string`
+* `sourcesContent？: string[]`
 
    源代码
 
