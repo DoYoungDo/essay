@@ -9,9 +9,9 @@
 #### *示例*
 
 源
-```js
+```ts
 // main.js
-function greet(name) {
+function greet(name: string) {
   console.log(`Hello, ${name}!`);
 }
 
@@ -20,22 +20,31 @@ greet('World');
 
 目标
 ```js
-// main.min.js
-function greet(n){console.log("Hello, "+n+"!")}greet("World");
+// main.js
+"use strict";
+function greet(name) {
+    console.log(`Hello, ${name}!`);
+}
+greet('World');
+//# sourceMappingURL=main.js.map
 ```
 
 映射
 ```json
-// main.min.js.map
+// main.js.map
 {
-  "version": 3,
-  "file": "main.min.js",
-  "sources": ["main.js"],
-  "names": ["greet", "name", "console", "log"],
-  "sourcesContent":"function greet(name) {\n  console.log(`Hello, ${name}!`);\n}\n\ngreet('World');",
-  "mappings": "AAAA,SAASA,CAAT,CAAA,CAAA,CAAA,CAAA,CAAC;AACH,OAAO,CAAC,GAAR,CAAY,OAAZ,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA;AAIA,CAAC,CAAD,CAAH,CAAC,CAAD,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA,CAAA"
+    "version": 3,
+    "file": "main.js",
+    "sourceRoot": "",
+    "sources": [
+        "main.ts"
+    ],
+    "names": [],
+    "sourcesContent": [
+        "function greet(name: string) {\n  console.log(`Hello, ${name}!`);\n}\n\ngreet('World');"
+    ],
+    "mappings": ";AAAA,SAAS,KAAK,CAAC,IAAY;IACzB,OAAO,CAAC,GAAG,CAAC,UAAU,IAAI,GAAG,CAAC,CAAC;AACjC,CAAC;AAED,KAAK,CAAC,OAAO,CAAC,CAAC"
 }
-
 ```
 
 #### *说明*
