@@ -121,7 +121,7 @@ clip 检测到这条文本后，会调用翻译器，然后把翻译结果显示
 
 同样地，点击图标或点击翻译结果后，翻译后的内容也会直接进入系统剪贴板，适合拿来马上回复消息、写注释或填表单。
 
-![BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png)
+![BQACAgUAAyEGAASHRsPbAAESf6FpzhZ1RDEsr8b1wQi0td1sQZ6eUwACTCEAApKCcVZYhJo3h1WkyDoE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAESf6FpzhZ1RDEsr8b1wQi0td1sQZ6eUwACTCEAApKCcVZYhJo3h1WkyDoE.png)
 
 ### 和 clip 原来的功能怎么配合
 
