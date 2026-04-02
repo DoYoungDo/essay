@@ -1,5 +1,7 @@
 ## 开源项目
 
+* [【开源】《clip》翻译功能怎么用？复制一下就能直接翻](OpenSource/clip/clip2.md)
+
 * [【开源】《PhotoAlbum》一个极简的、单文件运行的、适合内网和家庭部署的相册应用](OpenSource/photo_album/photo_album.md)
 
 * [【开源】《clip》一个不到4M的、跨平台的、支持分组、搜索、自定义条数、局域网共享的、剪贴板历史工具](OpenSource/clip/clip.md)
