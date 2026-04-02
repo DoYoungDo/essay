@@ -72,7 +72,7 @@ appkey 密钥
 
 如果当前剪贴板里放的是正确格式的密钥，clip 会尝试立即启用它。
 
-![alt text](image.png)
+![BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png)
 
 #### 3. 选择翻译目标语言
 
@@ -107,7 +107,7 @@ clip 检测到这条文本后，会调用翻译器，然后把翻译结果显示
 
 如果这时候你点击托盘图标，或者直接点击这条翻译文本，当前翻译结果会被回写到系统剪贴板中，这样就可以立刻 `Ctrl+V` / `Cmd+V` 粘贴使用。
 
-![alt text](image-1.png)
+![BQACAgUAAyEGAASHRsPbAAESf2ZpzhTLdTh2_Yc_XHF_Nhn2IkrDKQACECEAApKCcVbViTl0cT24EToE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAESf2ZpzhTLdTh2_Yc_XHF_Nhn2IkrDKQACECEAApKCcVbViTl0cT24EToE.png)
 
 #### 例子 2：把中文翻成英文
 
@@ -121,7 +121,7 @@ clip 检测到这条文本后，会调用翻译器，然后把翻译结果显示
 
 同样地，点击图标或点击翻译结果后，翻译后的内容也会直接进入系统剪贴板，适合拿来马上回复消息、写注释或填表单。
 
-![alt text](image-2.png)
+![BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAESf2hpzhTRDnjN6mNYPI9-WCbgUHaWnAACEyEAApKCcVav1PBcdDvgeToE.png)
 
 ### 和 clip 原来的功能怎么配合
 
@@ -136,19 +136,13 @@ clip 的翻译功能不是孤立的，它和原有的剪贴板历史功能是结
 
 ### 密钥保存在哪里
 
-现在 clip 不再把翻译器密钥写入 `config.json`。
+clip 不会直接存储密钥，不用担心泄露风险。
 
 它会把密钥保存到当前系统的凭据存储里，例如：
 
 - macOS Keychain
 - Windows Credential Manager
 - Linux Secret Service / Keyring
-
-这样做的好处是：
-
-- 配置文件里不会直接出现明文密钥
-- 跨平台都能走各自系统的安全存储机制
-- 程序重启后可以继续恢复已配置的翻译器
 
 ### 一个很适合程序员的用法
 
