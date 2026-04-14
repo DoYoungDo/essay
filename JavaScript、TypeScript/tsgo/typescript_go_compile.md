@@ -8,13 +8,13 @@
 
 先fork仓库，然后在fork的仓库中进行开发。
 
-![alt text](img/tsgo-fork.png)
+![BQACAgUAAyEGAASHRsPbAAETCC9p3chTYPHrsDlLZdh89DJRSB1csQACgSwAAhLf8FbHdKEynICfdDsE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAETCC9p3chTYPHrsDlLZdh89DJRSB1csQACgSwAAhLf8FbHdKEynICfdDsE.png)
 
 ### clone
 
 clone 仓库到本地
 
-![alt text](img/tsgo-clone.png)
+![BQACAgUAAyEGAASHRsPbAAETCDFp3chZHQ9mrv21jfOxzf-xfy1SYwACgywAAhLf8FYUyqShUKcOTDsE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAETCDFp3chZHQ9mrv21jfOxzf-xfy1SYwACgywAAhLf8FYUyqShUKcOTDsE.png)
 
 ```bash
 git clone git@github.com:DoYoungDo/typescript-go.git
@@ -22,7 +22,7 @@ git clone git@github.com:DoYoungDo/typescript-go.git
 
 ### 安装go
 
-*注意：tsgo 需要go1.26版本以上*
+***注意：tsgo 需要go1.26版本以上***
 
 [https://golang.google.cn/dl](https://golang.google.cn/dl/)
 
@@ -54,7 +54,7 @@ go build -gcflags="all=-N -l" -ldflags="-compressdwarf=false" -v -o /xxx/tsgo ./
 
 从程序入口可以看到，tsgo程序启动时可以指定lsp启动可api启动，这时tsgo会作为一个服务在后台运行
 
-![alt text](img/tsgo-main.png)
+![BQACAgUAAyEGAASHRsPbAAETCDBp3chVmMFHiS-ZybZJvVs9fFZfYgACgiwAAhLf8Fbn3widm_spczsE.png](https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAETCDBp3chVmMFHiS-ZybZJvVs9fFZfYgACgiwAAhLf8Fbn3widm_spczsE.png)
 
 #### lsp启动
 
