@@ -1,5 +1,7 @@
 # 其它
 
+* [长期更新](LTUpdate/README.md)
+
 * [mac设置程序坞不显示图标](Other/mac_set_dock_not_show_icon.md)
 
 * [Windows设置自动关机或自动重启等自定义任务](Other/windows_set_custome_task.md)

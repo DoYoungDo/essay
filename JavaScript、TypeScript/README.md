@@ -1,5 +1,7 @@
 # JavaScript、TypeScript
 
+* [《typescript-go》二次开发](JavaScript、TypeScript/tsgo/README.md)
+
 * [js/ts的`Function.prototype.bind()`方法避坑](JavaScript、TypeScript/function_bind.md)
 
 * [ts枚举类型不同写法编译为js后的区别](JavaScript、TypeScript/ts_enum_diff.md)

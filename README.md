@@ -2,11 +2,9 @@
 
 ##### [欢迎页]()
 
-## [长期更新](LTUpdate/README.md)
-
-* [程序设计心得](LTUpdate/program_design.md)
-
 ## 2026
+
+* [《typescript-go》二次开发-源码编译运行](JavaScript、TypeScript/tsgo/typescript_go_compile.md)
 
 * [【开源】《clip》翻译功能怎么用？复制一下就能直接翻](OpenSource/clip/clip2.md)
 
