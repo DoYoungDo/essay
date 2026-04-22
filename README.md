@@ -4,6 +4,8 @@
 
 ## 2026
 
+* [AI专业词概念-AIGC](AI/about_aigc.md)
+
 * [《typescript-go》二次开发-项目简介](JavaScript、TypeScript/tsgo/typescript_go_intro.md)
 
 * [《typescript-go》二次开发-源码编译运行](JavaScript、TypeScript/tsgo/typescript_go_compile.md)
