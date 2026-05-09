@@ -4,6 +4,8 @@
 
 ## 2026
 
+* [使用 Git 节省磁盘空间：4 种实用技巧](Git/saving-disk-space-with-git.md)
+
 * [AI专业词概念-AIGC](AI/about_aigc.md)
 
 * [《typescript-go》二次开发-项目简介](JavaScript、TypeScript/tsgo/typescript_go_intro.md)

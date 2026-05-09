@@ -25,7 +25,7 @@ python main.py
 # 输出：module
 # 输出：__main__
 
-pytho module.py
+python module.py
 # 输出：__main__
 
 ```
