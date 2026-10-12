@@ -30,6 +30,8 @@
 
 <!-- * [英语](English/README.md) -->
 
+* [编译原理](Compile/README.md)
+
 * [其它](Other/README.md)
 
 <!-- * [指南](Guides/README.md) -->

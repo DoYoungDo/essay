@@ -4,6 +4,8 @@
 
 ## 2026
 
+* [从 VS Code 的 when 表达式理解解释器的基本原理](Compile/from_when_expresion_to_interpreters.md)
+
 * [使用 Git 节省磁盘空间：4 种实用技巧](Git/saving-disk-space-with-git.md)【[Git](Git/README.md)】
 
 * [AI专业词概念-AIGC](AI/about_aigc.md)
