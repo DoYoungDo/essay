@@ -4,6 +4,8 @@ Clip 是一个驻留在系统托盘的剪贴板历史管理工具，自动记录
 
 支持 macOS、Windows、Linux 三大平台。
 
+> 本文是完整的操作手册。项目背景与功能总览见 [《clip》一个不到 4M 的跨平台剪贴板历史工具](OpenSource/clip/clip.md)。
+
 ## 设计理念
 
 剪贴板历史工具不需要太多花哨的功能：在后台默默记录，需要时快速复制回来，这样就够了。
@@ -24,8 +26,10 @@ Clip 是一个驻留在系统托盘的剪贴板历史管理工具，自动记录
 |:--|:--|
 | macOS Apple Silicon | `*-darwin-arm64.zip` |
 | macOS Intel | `*-darwin-amd64.zip` |
-| Linux | `*-linux-amd64.tar.gz` |
-| Windows | `*-windows-amd64.zip` |
+| Linux AMD64 | `*-linux-amd64.tar.gz` |
+| Linux ARM64 | `*-linux-arm64.tar.gz` |
+| Windows AMD64 | `*-windows-amd64.zip` |
+| Windows ARM64 | `*-windows-arm64.zip` |
 
 ### 安装
 
@@ -284,6 +288,8 @@ Clip 是一个驻留在系统托盘的剪贴板历史管理工具，自动记录
 
 复制文本后自动翻译，结果显示在托盘标题上。
 
+> 翻译功能的设计思路与使用场景，见 [《clip》翻译功能怎么用？复制一下就能直接翻](OpenSource/clip/clip2.md)。
+
 **配置密钥**（首次使用）：
 
 ```text
@@ -385,3 +391,8 @@ Clip 把剪贴板从"只能存一条"升级成一个带历史、分组、搜索�
 - 🌐 局域网共享，多台电脑剪贴板互通
 
 源码与最新版本：[github.com/DoYoungDo/clip](https://github.com/DoYoungDo/clip)，觉得好用欢迎 Star，遇到问题欢迎提 Issue。
+
+## 相关文章
+
+- [《clip》一个不到 4M 的跨平台剪贴板历史工具](OpenSource/clip/clip.md)
+- [《clip》翻译功能怎么用？复制一下就能直接翻](OpenSource/clip/clip2.md)
