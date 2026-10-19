@@ -4,6 +4,8 @@
 
 ## 2026
 
+* [【开源】《clip》怎么使用？详细图解](OpenSource/clip/how_to_use_clip.md)
+
 * [AI专业词概念-SKILL](AI/about_skill.md)
 
 * [从 VS Code 的 when 表达式理解解释器的基本原理](Compile/from_when_expresion_to_interpreters.md)
