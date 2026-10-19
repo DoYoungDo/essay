@@ -1,6 +1,5 @@
 #### 分类
 
-* [AI](AI/README.md)
 
 * [C++](Cpp/README.md)
 
@@ -31,6 +30,8 @@
 <!-- * [英语](English/README.md) -->
 
 * [编译原理](Compile/README.md)
+
+* [AI](AI/README.md)
 
 * [其它](Other/README.md)
 
