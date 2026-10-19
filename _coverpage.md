@@ -16,7 +16,7 @@
 <img src="static/doyoung.svg" width="100%" height="50">
 
 [GitHub](https://github.com/DoYoungDo)
-[Gitee](https://gitee.com/DoyoungDo)
+[Bolg](https://www.cnblogs.com/Doyoung)
 [Get Started](/README)
 
 ![](static/bg.webp)
